@@ -1,13 +1,13 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-08-11 17:24:36 +0000"
+      "unlock_right_away": "2025-08-11 18:04:09 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:ice_spikes": "2025-08-11 17:24:37 +0000"
+      "minecraft:old_growth_birch_forest": "2025-08-11 18:04:10 +0000"
     },
     "done": false
   },
